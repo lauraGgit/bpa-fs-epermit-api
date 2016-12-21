@@ -6,6 +6,8 @@ The documents in this repository are posted to eBuy under RFQ1160564. The docume
 
 Offers are due by January 4th, 2016, at 12pm EST.
 
+For situational awareness, the repo here [https://github.com/18F/forest-service-prototype] documents 18F's progress on this project to date.
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
